@@ -1,6 +1,6 @@
 # "Affiliates" - Jekyll Template by WowThemes.net
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-affiliates-bootstrap-jekyll/) &nbsp; | &nbsp; [More Jekyll Themes](https://bootstrapstarter.com/template-categories/jekyll/)
+[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) &nbsp; | &nbsp; [More Jekyll Themes](https://bootstrapstarter.com/template-categories/jekyll/)
 
 
 ![affiliates](assets/images/theme1.jpg)
